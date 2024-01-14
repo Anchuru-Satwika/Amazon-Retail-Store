@@ -65,3 +65,5 @@ Use data analysis and visualization to identify trends, patterns, and insights w
     -  Chairs in Furniture
     -  Storage in Office Supplies
 - To increase sales in the South and Central region, we can give more discounts and offers.
+
+## Dashboard Link: file:///I:/My%20Drive/PowerBI-Dashboards/Amazon%20Sales%20Dataset/Dashboard_pdf.pdf
