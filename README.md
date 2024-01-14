@@ -1,7 +1,7 @@
 
 # Amazon Sales Dashboard
 
-Dataset Link: https://accounts.google.com/AccountChooserEmail=anchurusatwika%40gmail.com&faa=1&continue=https%3a%2f%2fdocsgooglecom%2fspreadsheets%2fd%2f10zjq12wwMzr25jhbJym3zIAP5W8eWFp7%3frtpof%3dtrue%26usp%3ddrive_fs
+Dataset Link: https://docs.google.com/spreadsheets/d/10zjq12wwMzr25jhbJym3zIAP5W8eWFp7/edit?rtpof=true&pli=1#gid=695705057
 
 ## Problem Statement 
 Analyze and visualize key aspects of Amazon's sales data including sales performance by product category, customer segment, region, and sales channel. 
